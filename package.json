@@ -1,0 +1,7 @@
+{
+  "name": "@qikjs/utils",
+  "version": "1.0.0",
+  "description": "Lightweight helper functions for JavaScript.",
+  "main": "src/index.js",
+  "type": "module"
+}
